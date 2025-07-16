@@ -12,8 +12,10 @@ Back then, I had no idea what GitHub was, so I'm sharing it now to inspire other
 💬 Speak back using pyttsx3 text-to-speech
 🧑‍💼 Answer "Who is..." questions using an SQLite database of famous personalities
 🕒 Tell current time
-😂 Crack jokes with pyjokes
-🧠 Learn new facts from your voice input
+😂 Crack jokes
+🧠 Tell random facts
+✨ Tell fortune
+😍 Tells story
 ❌ Exit on voice command
 
 ## Tech Stack
